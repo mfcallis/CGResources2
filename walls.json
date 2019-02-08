@@ -1,34 +1,34 @@
 [
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":13, "alpha": 0.7, "texture": "wall.jpg"}, 
+    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":1, "alpha": 0.7, "texture": "wall.jpg"}, 
     "vertices": [[0, 0, 1],[0, 1, 1],[1,1,1],[1,0,1]],
     "normals": [[0, 0, 1],[0, 0, 1],[0, 0,1],[0, 0,1]],
     "uvs": [[0,0], [0,1], [1,1], [1,0]],
     "triangles": [[0,1,2],[2,3,0]]
   },
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":13, "alpha": 0.7, "texture": "wall.jpg"}, 
+    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":1, "alpha": 0.7, "texture": "wall.jpg"}, 
     "vertices": [[0, 0, 0],[0, 1, 0],[1,1,0],[1,0,0]],
     "normals": [[0, 0, -1],[0, 0, -1],[0, 0,-1],[0, 0,-1]],
     "uvs": [[0,0], [0,1], [1,1], [1,0]],
     "triangles": [[0,1,2],[2,3,0]]
   },
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":13, "alpha": 0.7, "texture": "wall.jpg"}, 
+    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":1, "alpha": 0.7, "texture": "wall.jpg"}, 
     "vertices": [[0, 0, 0],[0, 0, 1],[0,1,1],[0,1,0]],
     "normals": [[-1, 0, 0],[-1, 0, 0],[-1, 0, 0],[-1, 0, 0]],
     "uvs": [[1,0], [0,0], [0,1], [1,1]],
     "triangles": [[0,1,2],[2,3,0]]
   },
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":13, "alpha": 0.7, "texture": "wall.jpg"}, 
+    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":1, "alpha": 0.7, "texture": "wall.jpg"}, 
     "vertices": [[1, 0, 0],[1, 0, 1],[1,1,1],[1,1,0]],
     "normals": [[1, 0, 0],[1, 0, 0],[1, 0, 0],[1, 0, 0]],
     "uvs": [[1,0], [0,0], [0,1], [1,1]],
     "triangles": [[0,1,2],[2,3,0]]
   },
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":13, "alpha": 0.7, "texture": "floor.jpg"}, 
+    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.6], "specular": [0.3,0.3,0.3], "n":5, "alpha": 0.7, "texture": "floor.jpg"}, 
     "vertices": [[0, 0, 0],[0, 0, 1],[1,0,1],[1,0,0]],
     "normals": [[0, 1, 0],[0, 1, 0],[0, 1, 0],[0, 1, 0]],
     "uvs": [[0,0], [0,1], [1,1], [1,0]],
