@@ -132,5 +132,5 @@
               ["s",  22,   22,   22,   22,   22,  "p",  23,   23,   23,   23,   23,  "s"],
               ["s",  22,   22,   22,   22,   22,  "s",  23,   23,   23,   23,   23,  "s"],
               ["s", "s", "s", "s", "s", "s", "s", "s", "s", "s", "s", "s", "s"]],
-    "furniture": [[0,0,0,"sphere",0],[1,4,4,"triangleset",0],[2,0,0,"sphere",0],[3,4,4,"triangleset",0],[4,0,0,"sphere",0],[5,4,4,"triangleset",0]]
+    "furniture": [[0,0,0,"sword",0],[1,4,4,"triangleset",0],[2,0,0,"sphere",0],[3,4,4,"triangleset",0],[4,0,0,"sphere",0],[5,4,4,"triangleset",0]]
 }
